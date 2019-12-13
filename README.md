@@ -3,8 +3,8 @@ Links for the most relevant topics
 
 ## Finance and Economics
 ### Investor
-- [Utility Functions](https://en.wikipedia.org/wiki/Cardinal_utility)
 - [St. Petersburg Paradox](https://en.wikipedia.org/wiki/St._Petersburg_paradox)
+- [Utility Functions](https://en.wikipedia.org/wiki/Cardinal_utility)
 - [Indifference Curve](https://en.wikipedia.org/wiki/Indifference_curve)
 - [Behavioral Economics](https://en.wikipedia.org/wiki/Behavioral_economics)
 ### Investment
@@ -35,11 +35,12 @@ Links for the most relevant topics
 - [Box Cox Transformation](https://en.wikipedia.org/wiki/Power_transform#Box%E2%80%93Cox_transformation)
 - [Robust Regression](https://en.wikipedia.org/wiki/Robust_regression)
 - [Local Regression (LOESS)](https://en.wikipedia.org/wiki/Local_regression)
+- [Non Parametric Regression](https://en.wikipedia.org/wiki/Nonparametric_regression)
 ### [Regression Diagnostics](https://en.wikipedia.org/wiki/Regression_diagnostic)
 - [Leverage](https://en.wikipedia.org/wiki/Leverage_(statistics))
 - [Influential Observations](https://en.wikipedia.org/wiki/Influential_observation)
 - [Errors and Residuals](https://en.wikipedia.org/wiki/Errors_and_residuals)
-### Tests
+### Statistical Tests
 - [Null Hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis)
 - [t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
 - [F-test](https://en.wikipedia.org/wiki/F-test)
@@ -51,16 +52,22 @@ Links for the most relevant topics
 ### Time Series Analysis
 - [ARIMA models](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
 - [GARCH models](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity)
+### Misc
+- [Bayesian Statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)
+- [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
 ## Pricing
-#### Portfolios and Securities
+#### Portfolios
 - [Self-financing Portfolios](https://en.wikipedia.org/wiki/Self-financing_portfolio)
 - [Replicating Portfolios](https://en.wikipedia.org/wiki/Replicating_portfolio)
 - [Complete Markets](https://en.wikipedia.org/wiki/Complete_market)
-- [Securities](https://en.wikipedia.org/wiki/Security_(finance))
-- [Exotic Options](https://en.wikipedia.org/wiki/Exotic_option)
-- [Put call Parity](https://en.wikipedia.org/wiki/Put%E2%80%93call_parity)
 - [Arbitrage](https://en.wikipedia.org/wiki/Statistical_arbitrage)
+### [Securities](https://en.wikipedia.org/wiki/Security_(finance))
+- [Put call Parity](https://en.wikipedia.org/wiki/Put%E2%80%93call_parity)
+- [Options](https://en.wikipedia.org/wiki/Option_(finance))
+- [Exotic Options](https://en.wikipedia.org/wiki/Exotic_option)
+- [Futures Contract](https://en.wikipedia.org/wiki/Futures_contract)
+- [Forward Contract](https://en.wikipedia.org/wiki/Forward_contract)
 ### [Stochastic Calculus](https://en.wikipedia.org/wiki/Stochastic_calculus)
 - [Brownian Motion / Wiener Process](https://en.wikipedia.org/wiki/Brownian_motion)
 - [Ito's Lemma](https://en.wikipedia.org/wiki/It%C3%B4%27s_lemma)
@@ -103,6 +110,7 @@ Links for the most relevant topics
 - [Importance Sampling](https://en.wikipedia.org/wiki/Importance_sampling)
 - [Markov Chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 - [Option Pricing using Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+- [Rao-Blackwell](https://en.wikipedia.org/wiki/Rao%E2%80%93Blackwell_theorem)
 
 ## Optimization
 - [Convex Optimization](https://en.wikipedia.org/wiki/Convex_optimization)
@@ -137,10 +145,25 @@ Links for the most relevant topics
 - [Battle of Sexes](https://en.wikipedia.org/wiki/Battle_of_the_sexes_(game_theory))
 
 ## Machine Learning
-- [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+### [Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning)
+- [K-Nearest_Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+- [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
+- [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine)
+- [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+- [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+### [Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
+- [K-means](https://en.wikipedia.org/wiki/K-means_clustering)
+- [K-medoids](https://en.wikipedia.org/wiki/K-medoids)
+### [Regression](https://github.com/shehio/Everything-Financial-Engineering#Regression)
+### [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+- [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process)
 - [Apprenticeship Learning](kipedia.org/wiki/Apprenticeship_learning)
 
 ## Miscellaneous
 - [Expectation Maximization](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm)
 - [Optimal Stopping](https://en.wikipedia.org/wiki/Optimal_stopping)
 - [Secretary Problem](https://en.wikipedia.org/wiki/Secretary_problem)
+- [Markov Chains and Stationary Distributions](https://en.wikipedia.org/wiki/Markov_chain#Stationary_distribution_relation_to_eigenvectors_and_simplices)
+- [Hidden Markov Models](https://en.wikipedia.org/wiki/Hidden_Markov_model)
