@@ -1,15 +1,27 @@
-# Everything Financial Engineering
+# [Everything Financial Engineering](https://en.wikipedia.org/wiki/Mathematical_finance)
 Links for the most relevant topics
 
 ## Finance and Economics
+### Investor
+- [Utility Functions](https://en.wikipedia.org/wiki/Cardinal_utility)
+- [St. Petersburg Paradox](https://en.wikipedia.org/wiki/St._Petersburg_paradox)
+- [Indifference Curve](https://en.wikipedia.org/wiki/Indifference_curve)
+- [Behavioral Economics](https://en.wikipedia.org/wiki/Behavioral_economics)
+### Investment
+- [Rate of Return](https://en.wikipedia.org/wiki/Rate_of_return)
+- [Volatility](https://en.wikipedia.org/wiki/Volatility_(finance))
+- [Value at Risk](https://en.wikipedia.org/wiki/Value_at_risk)
+- [Expected Shortfall](https://en.wikipedia.org/wiki/Expected_shortfall)
+### Market
+- [Efficient Market_Hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+- [Bond Market](https://en.wikipedia.org/wiki/Bond_market)
+- [Yield Curve](https://en.wikipedia.org/wiki/Yield_curve)
+- [Libor Rate](https://en.wikipedia.org/wiki/Libor)
+### Returns models
 - [Modern Portfolio Theorem](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
-- [Efficient frontier](https://en.wikipedia.org/wiki/Efficient_frontier)
 - [CAPM](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
 - [Arbitrage Pricing Theory](https://en.wikipedia.org/wiki/Arbitrage_pricing_theory)
 - [Fama French Model](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
-- [Indifference Curve](https://en.wikipedia.org/wiki/Indifference_curve)
-- [Yield Curve](https://en.wikipedia.org/wiki/Yield_curve)
-- [Utility Functions](https://en.wikipedia.org/wiki/Cardinal_utility)
 
 ## Statistics and Econometrics
 ### Estimators
@@ -40,40 +52,51 @@ Links for the most relevant topics
 - [ARIMA models](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
 - [GARCH models](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity)
 
-## Stochastic Pricing
-#### Markets
+## Pricing
+#### Portfolios and Securities
 - [Self-financing Portfolios](https://en.wikipedia.org/wiki/Self-financing_portfolio)
 - [Replicating Portfolios](https://en.wikipedia.org/wiki/Replicating_portfolio)
 - [Complete Markets](https://en.wikipedia.org/wiki/Complete_market)
+- [Securities](https://en.wikipedia.org/wiki/Security_(finance))
 - [Exotic Options](https://en.wikipedia.org/wiki/Exotic_option)
-### Calculus
+- [Put call Parity](https://en.wikipedia.org/wiki/Put%E2%80%93call_parity)
+- [Arbitrage](https://en.wikipedia.org/wiki/Statistical_arbitrage)
+### [Stochastic Calculus](https://en.wikipedia.org/wiki/Stochastic_calculus)
 - [Brownian Motion / Wiener Process](https://en.wikipedia.org/wiki/Brownian_motion)
-- [Stochastic Calculus](https://en.wikipedia.org/wiki/Stochastic_calculus)
 - [Ito's Lemma](https://en.wikipedia.org/wiki/It%C3%B4%27s_lemma)
 - [Feynman Kac](https://en.wikipedia.org/wiki/Feynman%E2%80%93Kac_formula)
 - [Fokker Planck](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
+### Models
+- [Lattice Model](https://en.wikipedia.org/wiki/Lattice_model_(finance))
+- [Binomial Option Pricing Model](https://en.wikipedia.org/wiki/Binomial_options_pricing_model)
 - [Black Scholes](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+- [Greeks](https://en.wikipedia.org/wiki/Greeks_(finance))
 
-## Trading
-### Market
-- [Market](https://en.wikipedia.org/wiki/Financial_market)
-- [Financial Security](https://en.wikipedia.org/wiki/Security_(finance))
+## [Trading](https://en.wikipedia.org/wiki/Trading_strategy)
+### [Market](https://en.wikipedia.org/wiki/Financial_market)
 - [Bid Ask Spread](https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread)
-### Stochastic Optimal Control
+- [Slippage](https://en.wikipedia.org/wiki/Slippage_(finance))
+### [Stochastic Optimal Control](https://en.wikipedia.org/wiki/Stochastic_control)
 - [Stochastic Optimal Control](https://en.wikipedia.org/wiki/Optimal_control)
 - [HJB equation](https://en.wikipedia.org/wiki/Hamilton%E2%80%93Jacobi%E2%80%93Bellman_equation)
 - [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation)
 ### Strategies
-- [Momentum Investing](https://en.wikipedia.org/wiki/Momentum_investing)
-- [Mean Reversion](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
+- [Constant Mix](https://en.wikipedia.org/wiki/Rebalancing_investments)
+- [Buy and Hold](https://en.wikipedia.org/wiki/Buy_and_hold)
 - [Merton's portfolio problem](https://en.wikipedia.org/wiki/Merton%27s_portfolio_problem)
 - [Black Litterman](https://en.wikipedia.org/wiki/Black%E2%80%93Litterman_model)
 - [Return Based Style Analysis](https://en.wikipedia.org/wiki/Returns-based_style_analysis)
 - [Risk Parity](https://en.wikipedia.org/wiki/Risk_parity)
+- [Momentum Investing](https://en.wikipedia.org/wiki/Momentum_investing)
+- [Mean Reversion](https://en.wikipedia.org/wiki/Mean_reversion_(finance))
+- [Sell in May](https://en.wikipedia.org/wiki/Sell_in_May)
+- [Pairs Trading](https://en.wikipedia.org/wiki/Pairs_trade)
+### Testing Strategies
+- [Back Testing](https://en.wikipedia.org/wiki/Backtesting)
 ### Execution
 - [Optimal Execution by Almgren-Chriss](https://www.math.nyu.edu/faculty/chriss/optliq_f.pdf)
 
-## Monte Carlo simulation
+## [Monte Carlo simulation](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 - [Law of Large Numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
 - [Inverse Transform Sampling](https://en.wikipedia.org/wiki/Inverse_transform_sampling)
 - [Rejection Sampling](https://en.wikipedia.org/wiki/Rejection_sampling)
@@ -91,7 +114,6 @@ Links for the most relevant topics
 - [Nonlinear Programming](https://en.wikipedia.org/wiki/Nonlinear_programming)
 - [Integer Programming](https://en.wikipedia.org/wiki/Integer_programming)
 - [Stochastic Programming](https://en.wikipedia.org/wiki/Stochastic_programming)
-
 ### Heuristic Based
 - [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm)
 - [Simulated Annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
@@ -108,7 +130,6 @@ Links for the most relevant topics
 - [Minimax Algorithm](https://en.wikipedia.org/wiki/Minimax)
 - [Evolutionary Game Theory](https://en.wikipedia.org/wiki/Evolutionary_game_theory)
 - [Replicator Equation](https://en.wikipedia.org/wiki/Replicator_equation)
-
 #### Games
 - [Zero Sum Games](https://en.wikipedia.org/wiki/Zero-sum_game)
 - [Repeated Games](https://en.wikipedia.org/wiki/Repeated_game)
@@ -121,3 +142,5 @@ Links for the most relevant topics
 
 ## Miscellaneous
 - [Expectation Maximization](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm)
+- [Optimal Stopping](https://en.wikipedia.org/wiki/Optimal_stopping)
+- [Secretary Problem](https://en.wikipedia.org/wiki/Secretary_problem)
