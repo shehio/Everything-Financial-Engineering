@@ -138,7 +138,7 @@ Links for the most relevant topics
 - [Minimax Algorithm](https://en.wikipedia.org/wiki/Minimax)
 - [Evolutionary Game Theory](https://en.wikipedia.org/wiki/Evolutionary_game_theory)
 - [Replicator Equation](https://en.wikipedia.org/wiki/Replicator_equation)
-#### Games
+### Games
 - [Zero Sum Games](https://en.wikipedia.org/wiki/Zero-sum_game)
 - [Repeated Games](https://en.wikipedia.org/wiki/Repeated_game)
 - [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)
