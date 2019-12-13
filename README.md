@@ -1,5 +1,4 @@
 # [Everything Financial Engineering](https://en.wikipedia.org/wiki/Mathematical_finance)
-Links for the most relevant topics
 
 ## Finance and Economics
 ### Investor
@@ -13,7 +12,7 @@ Links for the most relevant topics
 - [Value at Risk](https://en.wikipedia.org/wiki/Value_at_risk)
 - [Expected Shortfall](https://en.wikipedia.org/wiki/Expected_shortfall)
 ### Market
-- [Efficient Market_Hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+- [Efficient Market Hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
 - [Bond Market](https://en.wikipedia.org/wiki/Bond_market)
 - [Yield Curve](https://en.wikipedia.org/wiki/Yield_curve)
 - [Libor Rate](https://en.wikipedia.org/wiki/Libor)
@@ -61,7 +60,6 @@ Links for the most relevant topics
 - [Self-financing Portfolios](https://en.wikipedia.org/wiki/Self-financing_portfolio)
 - [Replicating Portfolios](https://en.wikipedia.org/wiki/Replicating_portfolio)
 - [Complete Markets](https://en.wikipedia.org/wiki/Complete_market)
-- [Arbitrage](https://en.wikipedia.org/wiki/Statistical_arbitrage)
 ### [Securities](https://en.wikipedia.org/wiki/Security_(finance))
 - [Put call Parity](https://en.wikipedia.org/wiki/Put%E2%80%93call_parity)
 - [Options](https://en.wikipedia.org/wiki/Option_(finance))
@@ -78,6 +76,7 @@ Links for the most relevant topics
 - [Binomial Option Pricing Model](https://en.wikipedia.org/wiki/Binomial_options_pricing_model)
 - [Black Scholes](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 - [Greeks](https://en.wikipedia.org/wiki/Greeks_(finance))
+- [Arbitrage](https://en.wikipedia.org/wiki/Statistical_arbitrage)
 
 ## [Trading](https://en.wikipedia.org/wiki/Trading_strategy)
 ### [Market](https://en.wikipedia.org/wiki/Financial_market)
@@ -146,7 +145,7 @@ Links for the most relevant topics
 
 ## Machine Learning
 ### [Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning)
-- [K-Nearest_Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 - [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 - [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
 - [Support Vector Machine](https://en.wikipedia.org/wiki/Support-vector_machine)
@@ -154,8 +153,8 @@ Links for the most relevant topics
 - [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
 ### [Unsupervised Learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
-- [K-means](https://en.wikipedia.org/wiki/K-means_clustering)
-- [K-medoids](https://en.wikipedia.org/wiki/K-medoids)
+- [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
+- [K-Medoids](https://en.wikipedia.org/wiki/K-medoids)
 ### [Regression](https://github.com/shehio/Everything-Financial-Engineering#Regression)
 ### [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 - [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process)
